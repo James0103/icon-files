@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231815;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="475" y="69.77" width="50" height="122.23"/>
+  <rect class="cls-1" x="274.28" y="123.56" width="50" height="122.23" transform="translate(-52.24 174.38) rotate(-30)"/>
+  <rect class="cls-1" x="127.35" y="270.49" width="50" height="122.23" transform="translate(-211.01 297.74) rotate(-60)"/>
+  <rect class="cls-1" x="37.45" y="507.32" width="122.23" height="50"/>
+  <rect class="cls-1" x="91.23" y="708.04" width="122.23" height="50" transform="translate(-346.11 174.39) rotate(-30)"/>
+  <rect class="cls-1" x="822.65" y="671.92" width="50" height="122.23" transform="translate(-211.01 1100.6) rotate(-60)"/>
+  <rect class="cls-1" x="840.32" y="507.32" width="122.23" height="50"/>
+  <rect class="cls-1" x="786.54" y="306.61" width="122.23" height="50" transform="translate(-52.24 468.26) rotate(-30)"/>
+  <rect class="cls-1" x="639.6" y="159.67" width="122.23" height="50" transform="translate(190.42 699.17) rotate(-60)"/>
+  <path class="cls-1" d="m500,257.32c-151.88,0-275,123.12-275,275s123.12,275,275,275,275-123.12,275-275-123.12-275-275-275Zm25,252.68h-50v-228h50v228Z"/>
+</svg>
